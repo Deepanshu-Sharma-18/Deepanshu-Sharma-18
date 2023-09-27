@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Deepanshu Sharma, an Android and Blockchain DApp developer based in India. Here's a little bit about me:<br><br>📱 I specialize in building Flutter apps that are user-friendly and intuitive.<br><br>🌐 I'm also interested in Web development and love working with front-end technologies like React, TailwindCSS & JavaScript.<br><br>💻 When I'm not coding, you can find me tinkering with new programming languages and tools to keep my skills sharp.<br><br>🌟 I'm a strong believer in open-source software and enjoy contributing to projects that make a positive impact on the community.<br><br>🎉 Thanks for stopping by! Let's connect and build something amazing together.</p>
+<p align="left">👋 Hi there! I'm Deepanshu Sharma, an Android and Blockchain DApp developer based in India. Here's a little bit about me:<br><br>📱 I specialize in building Flutter & Jetpack Compose apps that are user-friendly and intuitive.<br><br>🌐 I'm also interested in Web development and love working with front-end technologies like React, TailwindCSS & JavaScript.<br><br>💻 When I'm not coding, you can find me tinkering with new programming languages and tools to keep my skills sharp.<br><br>🌟 I'm a strong believer in open-source software and enjoy contributing to projects that make a positive impact on the community.<br><br>🎉 Thanks for stopping by! Let's connect and build something amazing together.</p>
 
 ###
 
