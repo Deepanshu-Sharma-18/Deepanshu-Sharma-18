@@ -43,7 +43,7 @@
 
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cpp,dart,discord,figma,firebase,git,github,go,kotlin,latex,mongodb,ps,prisma,solidity,tailwind,vercel,react,flutter&perline=13)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cpp,dart,discord,figma,firebase,git,github,go,kotlin,latex,mongodb,ps,prisma,solidity,tailwind,vercel,react,flutter&perline=13)]
 </div>
 
 ###
