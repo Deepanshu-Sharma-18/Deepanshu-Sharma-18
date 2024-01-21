@@ -7,11 +7,9 @@
 
 ## 👩‍💻 About me
 
-  <p align="left">👋 Hi there! I'm Deepanshu Sharma, an Android developer based in India. Here's a little bit about me:<br>📱 I specialize in building Flutter & Jetpack Compose apps that are user-friendly and       intuitive.<br>💻 When I'm not coding, you can find me tinkering with new programming languages and tools to keep my skills sharp.<br>🌟 I'm a strong believer in open-source software and enjoy contributing to       projects that make a positive impact on the community.<br><br>🎉 Thanks for stopping by! Let's connect and build something amazing together.</p>
+  <p align="left">👋 I'm Deepanshu Sharma, an Android developer based in India. Here's a little bit about me:<br>📱 I specialize in building Flutter & Jetpack Compose apps that are user-friendly and       intuitive.<br>💻 When I'm not coding, you can find me tinkering with new programming languages and tools to keep my skills sharp.<br>🌟 I'm a strong believer in open-source software and enjoy contributing to       projects that make a positive impact on the community.<br><br>🎉 Thanks for stopping by! Let's connect and build something amazing together.</p>
   
-  
-  <p><br><br></p>
-  <div align="center" >
+  <div align="start" >
     <a href="https://www.linkedin.com/in/deepanshu-sharma-bb2225196" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
